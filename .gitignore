@@ -13,6 +13,9 @@ dist-ssr
 coverage
 *.local
 
+# Site Setup related information
+site_setup.md
+
 /cypress/videos/
 /cypress/screenshots/
 
