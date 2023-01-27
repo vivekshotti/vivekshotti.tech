@@ -55,8 +55,7 @@
               <i>Onsite - Goregaon, Mumbai (MH, India)</i> <br /><br />
               <i>Key Tasks included:</i> 
               <ul class="list-disc">
-                <li> Undertaking the development & transformation of the core business product from the existing pHp</li>
-                <li> Laravel Stack to the new JavaScript Stack (VueJS & TailwindCSS).</li>
+                <li> Undertaking the development & transformation of the core business product from the existing pHp Laravel Stack to the new JavaScript Stack (VueJS & TailwindCSS).</li>
                 <li> Finding & debugging bugs. Writing code to fix those bugs & add new features which got successfully integrated into dev, stage & eventually live production environments.</li>
                 <li> Integrating backend APIs in the frontend.</li>
                 <li> Working closely with the product team & other stakeholders to plan & implement new features inside the product.</li>
