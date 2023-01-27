@@ -11,7 +11,8 @@ app.use(router);
 app.use(
   VueGtag,
   {
-    config: { id: "G-L7TQMS4WDV" },
+    includes: [{ id: "G-HJ54RR0GP5" }], // vivekshotti.tech GA ID
+    config: { id: "G-L7TQMS4WDV" }, // vivekshotti.software GA ID
   },
   router
 );
