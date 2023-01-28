@@ -11,7 +11,7 @@ import ContactView from "../views/ContactView.vue";
 import KannadaLanguageBlogView from "../views/Blogs/KannadaLanguageBlogView.vue"
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(),
   routes: [
     {
       path: "/",
