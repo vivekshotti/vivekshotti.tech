@@ -8,6 +8,7 @@ import ProjResIntView from "../views/ProjResIntView.vue";
 import BlogsView from "../views/BlogsView.vue";
 import BookmarksView from "../views/BookmarksView.vue";
 import ContactView from "../views/ContactView.vue";
+import KannadaLanguageBlogView from "../views/Blogs/KannadaLanguageBlogView.vue"
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -57,6 +58,13 @@ const router = createRouter({
       name: "contact",
       component: ContactView,
     },
+
+    // Blogs
+    {
+      path: "/blogs/kannada-language",
+      name: "kannadablog",
+      component: KannadaLanguageBlogView,
+    }
   ],
 });
 
