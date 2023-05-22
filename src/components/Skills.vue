@@ -2,7 +2,7 @@
   <div class="grid grid-rows">
     <div class="grid grid-rows py-5">
       <div class="tagline text-5xl">Skills</div>
-      <div class="tag_meaning text-2xl"><i>The most important skill for a programmer is their ability to google & figure out!</i></div>
+      <div class="tag_meaning text-2xl"><i>The most important skill for a programmer is their ability to be curious & figure it out!</i></div>
     </div>
     <div class="flex flex-col gap-5 pb-5">
       <!-- <div class="grid grid-cols-2 grid-rows-2 gap-1"> -->
